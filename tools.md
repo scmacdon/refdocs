@@ -46,7 +46,7 @@ The system performs the following tasks:
 - Identify target HTML files where SDK snippets need to be inserted.
 - Locate placeholders or predefined markers within the HTML files for seamless integration.
 - Fetch and insert code snippets while preserving original formatting, indentation, and syntax.
-- Ensure proper syntax highlighting by wrapping code blocks in appropriate HTML tags (e.g., <pre><code>).
+- Ensure proper syntax highlighting by wrapping code blocks in appropriate HTML tags. 
 - Maintain HTML structure by keeping surrounding elements intact.
 - Support multiple programming languages, dynamically adjusting the injected code format based on the selected SDK language.
 - Validate inserted snippets to prevent broken formatting or incorrect placements

@@ -3,6 +3,8 @@
 ## Overview
 This document outlines the design and implementation details for a Python-based application that automates the process of extracting AWS SDK code snippets from YAML files stored in a GitHub repository and injecting them into corresponding HTML files. The application ensures seamless updates by committing the modified HTML files back to the repository.
 
+NOTE - THIS IS A DRAFT SPEC
+
 ## Functional Requirements
 The system performs the following tasks:
 

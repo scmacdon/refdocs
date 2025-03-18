@@ -16,7 +16,7 @@ The system performs the following tasks:
 - **GitHub Repository**: Stores YAML, SDK, and HTML files.
 - **Python Application**: Implements the process flow.
 - **YAML Parser**: Extracts SDK snippet references.
-- **Java Code Locator**: Identifies and extracts relevant SDK code.
+- **SDK Code Locator**: Identifies and extracts relevant SDK code.
 - **HTML Updater**: Injects extracted snippets into HTML files.
 - **GitHub Committer (Optional)**: Saves and commits changes.
 
